@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+geopy
+mysql
+requests
+click
+selenium
+pandas
